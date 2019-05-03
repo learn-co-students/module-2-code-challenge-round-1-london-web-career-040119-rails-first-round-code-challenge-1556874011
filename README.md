@@ -44,7 +44,7 @@ Read through the instructions to get a sense of the scope of this code challenge
 
 7. Make sure no two heroines have the same super name.
 
-# BONUS TO BE COMPLETED IF EVERYTHING ELSE IS DONE
+# BONUS TO BE COMPLETED IF EVERYTHING ELSE IS DONE 
 
 **If you have reached this point, please `git add` and `git commit` before proceeding!**
 

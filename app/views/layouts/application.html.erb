@@ -9,6 +9,14 @@
   </head>
 
   <body>
+    <h1><%= link_to "Super heroines", heroines_path%></h1>
+
+    <% if flash[:errors] %>
+      <% flash[:errors].each do |error| %>
+        <p style="color: red"><%= error %></p>
+      <% end %>
+    <% end %>
+
     <%= yield %>
   </body>
 </html>
